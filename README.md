@@ -14,4 +14,5 @@ Mais sobre mim 🧐
 Como me encontrar 🌐
 LinkedIn: <a href="https://www.linkedin.com/in/henrique-alcici-sanchez-09390427b/"> Henrique Alcici Sanchez </a>
 E-mail: henriquealcici@gmail.com
+
 Se quiser trocar ideias sobre Computação em Nuvem, lógica de programação, Java, PHP, ou apenas para compartilhar histórias sobre notebooks Positivo, sinta-se à vontade para entrar em contato! 😄
