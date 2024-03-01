@@ -3,13 +3,13 @@
 Sobre Mim ℹ️
 🌱 Estou atualmente no segundo semestre do curso técnico de Desenvolvimento de Sistemas na Etec Prof Camargo Aranha.
 💻 Tenho interesse em Computação em Nuvem e Lógica de Programação.
-☁️ Tenho um conhecimento básico na plataforma Azure para Computação em Nuvem.
 🚀 Estou aprendendo Java e PHP.
 🌟 Tenho conhecimento em linguagens como C, JavaScript, jQuery, HTML e CSS.
+☁️ Tenho conhecimento básico na plataforma Azure para Computação em Nuvem.
 📚 Além disso, sei utilizar a plataforma didática Portugol.
 
 Mais sobre mim 🧐
-👶 Um fato curioso sobre mim: Meu primeiro contato com máquinas foi aos 5 anos em um notebook da marca brasileira Positivo. Era péssimo, mas após isso, nunca mais parei!
+👶 Um fato curioso: Meu primeiro contato com máquinas foi aos 5 anos em um notebook da marca brasileira Positivo. Era péssimo, mas após isso, nunca mais parei!
 
 Como me encontrar 🌐
 LinkedIn: <a href="https://www.linkedin.com/in/henrique-alcici-sanchez-09390427b/"> Henrique Alcici Sanchez </a>
