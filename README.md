@@ -75,8 +75,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/doxz1n/count.svg?"  />
-</div>
-
-###
